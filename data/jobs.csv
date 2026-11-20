@@ -1,0 +1,12 @@
+
+job_id,title,company,location,work_mode,skills,description
+J001,Python Backend Intern,CloudNova,Bengaluru,Hybrid,"Python;FastAPI;SQL;Docker;REST API","Build backend services, APIs, integrations and reliable data pipelines."
+J002,AI Engineer Intern,NeuralWorks,Remote,Remote,"Python;LLM;RAG;Embeddings;LangGraph;SQL","Develop LLM applications, retrieval pipelines, agent tools and evaluation."
+J003,Java Software Engineer Intern,PayGrid,Hyderabad,On-site,"Java;Spring Boot;PostgreSQL;REST API;Docker","Develop payment APIs, database integrations and backend services."
+J004,Machine Learning Intern,DataOrbit,Remote,Remote,"Python;Machine Learning;Pandas;Scikit-learn;XGBoost","Train models, process datasets and evaluate predictive performance."
+J005,Full Stack Developer Intern,WebNest,Gurugram,Hybrid,"React;JavaScript;Node.js;SQL;REST API","Build user-facing features and backend endpoints for a SaaS product."
+J006,LLM Application Engineer,PromptLabs,Bengaluru,On-site,"Python;LLM;Tool Calling;Embeddings;FastAPI","Build tool-using assistants, semantic search and production APIs."
+J007,Cloud Software Intern,InfraStack,Pune,Hybrid,"Python;AWS;Docker;Linux;SQL","Automate cloud workflows and deploy backend applications."
+J008,Data Engineer Intern,MetricFox,Remote,Remote,"Python;SQL;PostgreSQL;Pandas;Docker","Create data ingestion jobs, transformations and analytics pipelines."
+J009,NLP Engineer Intern,TextMind,Chennai,On-site,"Python;NLP;Deep Learning;PyTorch;Embeddings","Experiment with text models, semantic similarity and information retrieval."
+J010,Backend Engineer Intern,ScaleBase,Remote,Remote,"Python;FastAPI;PostgreSQL;Redis;Docker","Implement scalable APIs, caching, authentication and observability."
